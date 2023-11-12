@@ -1,0 +1,9 @@
+i.btnh4::before {
+	content: "H4";
+}
+i.btnh5::before {
+	content: "H5";
+}
+i.btnh6::before {
+	content: "H6";
+}

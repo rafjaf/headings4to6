@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.rafjaf.headings4to6",
+	"app_min_version": "2.12",
+	"version": "1.0.0",
+	"name": "Headings 4 to 6",
+	"description": "Adds menu items, keyboard shortcuts and toolbar buttons to the WYSIWIG editor toolbar to apply headings level 4 to 6",
+	"author": "Rafaël Jafferali",
+	"homepage_url": "",
+	"repository_url": "https://github.com/rafjaf/joplin-plugin-headings4to6",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {}
+}
